@@ -1,0 +1,39 @@
+h1 {
+         text-align: center;
+}
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;  
+    height: 100;   
+}
+button{
+    background-color:deepskyblue;
+    padding: 10px;
+    border-radius: 5px;   
+    margin: 10px;
+}
+body {
+    padding-top: 100px;
+    background-color:azure;
+    margin-left: 300px;
+
+}
+.flex {
+    background-color:rgb(123, 235, 220);
+    height: 50vh;
+    width: 50vw;
+    align-items: center;
+}
+ul {
+    list-style-type: none;
+    padding:0;
+    margin-top: 20px;
+}
+li {
+    background-color: blanchedalmond;
+    
+    
+}
